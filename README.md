@@ -1,4 +1,4 @@
-<img width="1051" height="473" alt="image" src="https://github.com/user-attachments/assets/2d996e29-3311-42ff-886d-e7193b5d8990" /># suggestifyZa-entertainment-platform
+# suggestifyZa-entertainment-platform
 # 🎬 SuggestifyZa: Anime & K-Drama Review Platform
 
 **SuggestifyZa** is a community-driven web platform designed to solve the "Paradox of Choice" for Asian entertainment fans. It provides a centralized hub to discover, rate, and manage watchlists for both Anime and Korean Dramas.
