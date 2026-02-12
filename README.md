@@ -33,7 +33,6 @@ Developed as part of the **Web Programming (DE251)** course, this project aims t
 
 ## ⚙️ Installation Guide (Localhost)
 
-```text
 1. Clone the repository
    git clone [https://github.com/YOUR_USERNAME/suggestifyZa.git](https://github.com/YOUR_USERNAME/suggestifyZa.git)
 
@@ -51,9 +50,6 @@ Developed as part of the **Web Programming (DE251)** course, this project aims t
 
 5. Run the Project
    - Open your browser and navigate to: http://localhost/suggestifyZa/index.php
-
-
----
 
 ### 6. ทีมพัฒนา (Team)
 ```markdown
